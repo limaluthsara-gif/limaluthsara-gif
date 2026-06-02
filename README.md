@@ -1,16 +1,20 @@
-## Hi there 👋
+# Hi there, I'm Limal 👋
 
-<!--
-**limaluthsara-gif/limaluthsara-gif** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+🎓 Final-year computer science Student at Edith Cowan University
 
-Here are some ideas to get you started:
+🔒 Interested in Cybersecurity, Secure System Design, and Digital Forensics
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+💻 Skills:
+- Python
+- Java
+- React
+- Flutter
+- Django
+- SQL
+- Network Security
+
+📫 Connect with me:
+- LinkedIn: www.linkedin.com/in/limaljayasekara
+- Email: limaluthsara@gmail.com
+
+Welcome to my GitHub profile!
