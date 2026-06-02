@@ -12,6 +12,13 @@
 - Django
 - SQL
 - Network Security
+- Bash Scripting
+- Linux
+- Splunk
+- Cryptography
+- API Security Testing
+- Risk Assessment
+- Incident Response
 
 📫 Connect with me:
 - LinkedIn: www.linkedin.com/in/limaljayasekara
